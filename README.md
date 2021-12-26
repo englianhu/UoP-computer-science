@@ -1,6 +1,4 @@
-# <img src='figure/UoP-logo.jpg' width='180' align='center' valign='middle'>
-
----
+# <img src='figure/UoP-logo.jpg' width='240' align='center' valign='middle'>
 
 University of People - Bachelor Degree in Computer Science https://www.uopeople.edu
 
